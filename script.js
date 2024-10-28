@@ -37,6 +37,7 @@ function getBotResponse(input) {
         "who created you": "Mrinal & Aman, created me and trained me to help you!",
         "what is your name": "My name is 'INTELLIX' and I am here to help you!",
         "who are you": "I am a Text based AI ChatBOT for your help!",
+        "lord shiva": "Shiva is known as The Destroyer within the Trimurti, the Hindu trinity which also includes Brahma and Vishnu In the Shaivite tradition, Shiva is the Supreme Lord who creates, protects and transforms the universe In the goddess-oriented Shakta tradition, the Supreme Goddess (Devi) is regarded as the energy and creative power (Shakti) and the equal complementary partner of Shiva Shiva is one of the five equivalent deities in Panchayatana puja of the Smarta tradition of Hinduism",
         "bye": "bye! Have a great time!",
 
     };
